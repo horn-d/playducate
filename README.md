@@ -1,21 +1,20 @@
 # Playducate
-Eksamen projekt - Multimedie designer 2021
+Exam project - Multimedie designer 2021
 
-## Hjemmesiden
+## Website
 http://horn-design.dk/playducate/#tekst4
 
-## Spillet
+## The game
 ![Playducate](http://horn-design.dk/playducate/img/soapbobles.png?crop=1.00xw:1.00xh;0,0&resize=768:* "chocolate chip cookies")
 
 ## Playducate
-Playducate er et AR-spil som blander sjov og læring. Det kan anvendes i butikker, storcentre og til events.  
+Playducate is an AR-game which makes learning fun! It can be used i stores, shopping malls and for events.  
 
 
-## Fordele med Playducate
-- Glade kunder
-- Omtale
-- Større omsætning
-- Skil dig ud
+## Advantage by using Playducate
+- Happy costumers
+- Good publicity
+- Larger turnover
 
 
 ## Code
