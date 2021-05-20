@@ -10,9 +10,15 @@ Se hjemmesiden koden er lagt op på: http://horn-design.dk/playducate/#tekst4
 ## Playducate
 Playducate er et AR-spil som blander sjov og læring.  
 
-## Fordele
+
+## Fordele med Playducate
 - Glade kunder
 - Omtale
 - Større omsætning
 - Skil dig ud
-- 
+
+
+## Code
+- Parallax
+- Onepager
+- Responsive
