@@ -2,7 +2,7 @@
 Playducate eksamens spil
 
 ## Originale side
-Se hjemmesiden koden er lagt op på: http://horn-design.dk/playducate/#tekst4
+Se hjemmesiden som koden er lagt op på: http://horn-design.dk/playducate/#tekst4
 
 ## Spillet
 ![Playducate](http://horn-design.dk/playducate/img/soapbobles.png?crop=1.00xw:1.00xh;0,0&resize=768:* "chocolate chip cookies")
