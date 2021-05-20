@@ -1,7 +1,5 @@
 # Playducate
-Playducate eksamens spil
-
-## Originale side
+Eksamen projekt - Multimedie designer 2021
 Se hjemmesiden som koden er lagt op på: http://horn-design.dk/playducate/#tekst4
 
 ## Spillet
